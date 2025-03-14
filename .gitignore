@@ -1,0 +1,41 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Streamlit cache and temporary files
+.streamlit/
+
+# UV cache files
+.uv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Environment variables and secrets
+.env
+*.env
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Pip dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Cache files
+*.cache
