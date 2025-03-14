@@ -7,6 +7,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
+myenv/  # Add your 'myenv' virtual environment here
 
 # Streamlit cache and temporary files
 .streamlit/
